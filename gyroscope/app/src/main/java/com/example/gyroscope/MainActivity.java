@@ -30,6 +30,7 @@ public class MainActivity extends AppCompatActivity {
 
         @Override
         public void onAccuracyChanged(Sensor sensor, int i) {
+
         }
     };
 
